@@ -1,0 +1,9 @@
+my id 10.0.0.0.8
+physics id 172.0.0.0.9
+ports
+red port :
+[20]
+green port :
+[80]
+
+
