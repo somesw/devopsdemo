@@ -1,5 +1,6 @@
+
 my id 10.0.0.0.8
-physics id 172.0.0.0.9
+physics id 172.0.0.0.6
 ports
 red port :
 [20]
