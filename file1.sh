@@ -6,4 +6,4 @@ free -m
 
 echo"**************display root file system size************"
 
-dh -f /
+df -h /
